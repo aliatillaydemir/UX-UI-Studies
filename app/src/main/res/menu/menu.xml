@@ -20,5 +20,4 @@
         android:title="Settings"
         android:icon="@drawable/ic_settings"/>
 
-
 </menu>

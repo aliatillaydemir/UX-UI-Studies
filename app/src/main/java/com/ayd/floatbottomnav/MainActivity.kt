@@ -17,4 +17,5 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNavView.menu.getItem(2).isEnabled = false //ignore holderPlace
 
     }
+
 }
