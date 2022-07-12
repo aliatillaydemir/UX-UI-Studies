@@ -14,8 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.bottomNavView.background = null //ignore the shadow
-        binding.bottomNavView.menu.getItem(2).isEnabled = false
-
+        binding.bottomNavView.menu.getItem(2).isEnabled = false //ignore holderPlace
 
     }
 }
