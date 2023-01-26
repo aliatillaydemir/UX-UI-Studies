@@ -1,4 +1,4 @@
-# UX-UI-Studies
+# Walkthrough Screen with indicator
 
 <img src="https://github.com/aliatillaydemir/UX-UI-Studies/blob/OnBoardingScreen/Screenshot_1.png" 
 width=30% height=70%>&ensp;&ensp;&ensp;
