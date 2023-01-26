@@ -1,4 +1,4 @@
-package com.ayd.onboardingscreen
+package com.example.onboardingscreen
 
 import android.content.Context
 import android.os.Bundle
@@ -7,7 +7,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.example.onboardingscreen.R
 import kotlinx.coroutines.*
 import kotlin.coroutines.CoroutineContext
 

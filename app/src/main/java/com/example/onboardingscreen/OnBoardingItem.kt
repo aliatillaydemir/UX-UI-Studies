@@ -1,4 +1,4 @@
-package com.ayd.onboardingscreen
+package com.example.onboardingscreen
 
 data class OnBoardingItem(
     val onboardingImage: Int,

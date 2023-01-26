@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ayd.onboardingscreen'
+    namespace 'com.example.onboardingscreen'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ayd.onboardingscreen"
+        applicationId "com.example.onboardingscreen"
         minSdk 26
         targetSdk 33
         versionCode 1

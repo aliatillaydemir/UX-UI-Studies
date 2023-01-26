@@ -1,4 +1,4 @@
-package com.ayd.onboardingscreen
+package com.example.onboardingscreen
 
 import android.content.Context
 import android.os.Bundle
@@ -12,7 +12,6 @@ import androidx.core.content.ContextCompat
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
-import com.example.onboardingscreen.R
 import com.example.onboardingscreen.databinding.FragmentOnBoardingBinding
 
 
@@ -90,7 +89,7 @@ class OnBoardingFragment : Fragment() {
     private fun navigateHome(){
         findNavController().navigate(R.id.action_onBoardingFragment_to_mainFragment)
         onBoardFinish()
-        activity?.finish()
+        //activity?.finish()
     }
 
     private fun setupIndicator(){

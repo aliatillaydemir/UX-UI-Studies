@@ -1,4 +1,4 @@
-package com.ayd.onboardingscreen
+package com.example.onboardingscreen
 
 import org.junit.Test
 

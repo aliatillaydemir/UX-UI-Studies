@@ -1,4 +1,4 @@
-package com.ayd.onboardingscreen
+package com.example.onboardingscreen
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.onboardingscreen.R
 
 
 class OnBoardingItemsAdapter(private val onboardingItems: List<OnBoardingItem>): RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingViewHolder>() {
